@@ -1,19 +1,5 @@
-#peiyii_hw9
+### PREDICTING EARLY ICU ADMISSION BASED ON COVID-19 DIAGNOSIS OF PATIENTS IN BRAZIL.
+> Sheetal Shajan, Angelene Leow
 
-CPSC 330 hw9 for peiyii.
-
-## Help us improve the homework assignments
-
-I am always looking to improve these homework assignments. 
-The following optional questions will not affect your grade in any way nor will they be used for anything other than improvement:
-
-1. Approximately how many hours did you spend working or thinking about this assignment?
-
-#Ans: 144 
-
-2. Were there any questions that you particularly liked or disliked?
-
-#Ans: 1
- 
-#Ans: 1 (heh) 
-
+## BACKGROUND MOTIVATION
+As the world continues to struggle to contain the ongoing novel virus that is COVID-19, the major obstacle faced by healthcare institutions is the unpredictability in demand for healthcare resources such as ventilators and ICU resources to treat critically ill patients. This obstacle can be mitigated if a machine learning model is able to predict correctly if a patient with covid-19 will be admitted to the ICU hours before it happens. For our project, we have chosen to look at the Covid-19 cases specifically from Hospitals Sírio-Libanês, São Paulo and Brasilia in Brazil.
